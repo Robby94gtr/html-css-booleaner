@@ -3,15 +3,17 @@
     margin: 0;
     box-sizing: border-box;
 }
-.header{
-    background-color: aqua;
+header{
+    background-color: rgb(2, 129, 202);
     color: white;
+    background-image: url(../img/pattern.png);
+    background-size: 25%;
 }
 .paragraph{
     font-size: large;
 }
 .logo{
-   background-color: aqua;
+    width: 25%;
 }
 
 .photo-source{
