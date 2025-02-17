@@ -81,7 +81,7 @@ tbody{
 
 .ciao{
     background-image: url(../img/monitor.jpg);
-    text-align: left;
+    text-align: center;
     font-size: 24px;
     color: white;
     width: 312px;
@@ -90,7 +90,7 @@ tbody{
 
 .ciao2{
     background-image: url(../img/graph.jpg);
-    text-align: left;
+    text-align: center;
     font-size: 24px;
     color: white;
     width: 312px;
